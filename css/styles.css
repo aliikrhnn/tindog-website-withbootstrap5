@@ -1,0 +1,132 @@
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+}
+.body{
+    font-family: 'Roboto', sans-serif;
+}
+#h1-top{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+#h2-bottom{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    padding: 0 10%;
+    
+}
+.container-fluid{
+   padding: 3% 15%;
+   
+}
+.row{
+    padding: 3% 15%;
+}
+.collapse {
+    padding: 0 15%;
+}
+#navbar-brand {
+    padding: 0 15%;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.navbar-item{
+    padding: 0 18px;
+}
+#nav-link{
+    font-size: 1.2rem;
+        }
+#Dowload-button{
+    margin: 5% 3% 5% 0;
+}
+.title-img{
+    width: 60%;
+    transform: rotate(25deg);
+
+   }
+p{
+    padding: 0 100px;
+    text-align: center;
+    color: #8f8f8f;
+}
+    
+    
+
+.fa-solid{
+    color: #ef8172;
+    padding: 5% 40% 5%;
+    font-size: 80px;
+}    
+.fa-solid:hover{
+    color: #ff4c68;
+}
+
+    #row-bottom{
+        padding: 10% 5%;
+    }
+
+h3{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+
+#testimonials{
+    padding: 7% 10%;
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 15px;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding: 0 0 3%;
+}
+.press-logo{
+    width: 15%;
+    margin: 15px 50px 15px;
+}
+#for-dogs{
+    margin: 5% 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.cta{
+
+    padding: 10px 0 30px;
+}
+.copyright{
+    font-size: 10px;
+}
+#social-twitter{
+    position: absolute;
+    color: #000;
+    margin: 5px 50%;
+    
+    
+   
+
+}
+#social-twitter:hover{
+    color: #ef8172;
+    
+}
+#social-github{
+    color: #000;
+    margin: 0 48%;
+    
+}
+#social-github:hover{
+    color: #ef8172;
+}
+
+    
